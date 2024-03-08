@@ -26,3 +26,15 @@
 2024-03-08T11:09:18.409Z error: Error fetching previous day data:
 2024-03-08T11:14:18.411Z error: Error fetching previous day data:
 2024-03-08T11:14:18.412Z error: Error fetching previous day data:
+2024-03-08T12:13:15.953Z error: Error fetching previous day data: The property 'options.family' must be one of: 0, 4, 6. Received false
+2024-03-08T12:16:22.634Z error: Error fetching previous day data: The property 'options.family' must be one of: 0, 4, 6. Received false
+2024-03-08T12:18:47.263Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:19:17.849Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:24:18.302Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:29:18.254Z error: Error fetching previous day data: getaddrinfo ENOTFOUND api.binance.com
+2024-03-08T12:30:52.996Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:35:53.530Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:40:54.442Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:45:46.092Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:48:44.107Z error: Error fetching previous day data: signedRequest: Invalid API Key!
+2024-03-08T12:49:17.117Z error: Error fetching previous day data: signedRequest: Invalid API Key!
