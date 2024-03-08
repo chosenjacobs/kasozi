@@ -29,7 +29,7 @@ function checkPriceAndTrade() {
       buy(binance, symbol, currentPrice);
     }
 
-    if (currentPrice >= buyingPrice * sellThreshold) {
+    if (currentPrice >= currentPrice * sellThreshold) {
       sell(binance, symbol, currentPrice);
     }
   });
